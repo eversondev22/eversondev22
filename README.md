@@ -19,6 +19,5 @@
 <img olign="center" alt="html5"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-
 </div><br/>
 Apaixonado por tecnologia apos muitos anos trabalhando com Excel avançado e VBA, Decidi seguir minha paixão pela área de tecnologia, Estou cursando análise e desenvolvimento de sistemas e buscando oportunidades em cargos de backend, dados e frontend, onde possa aplicar minha experiência anterior e adquirir novos conhecimentos em tecnologia. Tenho grande interesse em contribuir para o desenvolvimento de projetos inovadores e crescer profissionalmente nessa área.
