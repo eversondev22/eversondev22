@@ -1,22 +1,50 @@
-### Olá eu sou Everson araujo ✋
+# Olá, eu sou Everson Araújo 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everson-araujo-09b289264/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/everson_araujos/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/everson.araujo.7965)
+Desenvolvedor em transição de carreira, apaixonado por construir soluções de software eficientes. Estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando em tecnologias Full Stack, com foco em Backend e C#.
 
-![Everson GitHub stats](https://github-readme-stats.vercel.app/api?username=eversondev22&show_icons=true&theme=radical)
+Minha trajetória começou com a expertise em **Excel Avançado e VBA**, o que me deu uma base sólida em lógica e automação. Agora, busco ativamente oportunidades onde possa aplicar minha experiência e contribuir para projetos inovadores na área de tecnologia.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eversondev22&langs_count=8)
+---
 
-## Tecnologias que eu uso no meu dia
+## 🚀 Estatísticas do GitHub
 
-<div style="display:inline-block"><br/>
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eversondev22&show_icons=true&theme=oceanic&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+</p>
 
-</div><br/>
-Apaixonado por tecnologia apos muitos anos trabalhando com Excel avançado e VBA, Decidi seguir minha paixão pela área de tecnologia, Estou cursando análise e desenvolvimento de sistemas e buscando oportunidades em cargos de backend, dados e frontend, onde possa aplicar minha experiência anterior e adquirir novos conhecimentos em tecnologia. Tenho grande interesse em contribuir para o desenvolvimento de projetos inovadores e crescer profissionalmente nessa área.
+## 💻 Minhas Principais Habilidades
+
+Abaixo estão as tecnologias que utilizo e nas quais estou investindo meu desenvolvimento:
+
+<div align="center">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+### 🛠️ Foco Atual
+
+* **Backend:** C# (.NET Core)
+* **Dados:** SQL, Análise e manipulação de dados.
+* **Frontend:** React (em desenvolvimento)
+
+---
+
+## 🌐 Conecte-se Comigo
+
+Estou sempre aberto a novas conexões e oportunidades. Vamos conversar!
+
+| Plataforma | Link |
+| :--- | :--- |
+| [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everson-araujo-09b289264/) | [Everson Araújo - LinkedIn](https://www.linkedin.com/in/everson-araujo-09b289264/) |
+| [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/everson_araujos/) | [everson\_araujos - Instagram](https://www.instagram.com/everson_araujos/) |
+| [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/everson.araujo.7965) | [Everson Araújo - Facebook](https://www.facebook.com/everson.araujo.7965) |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversondev22&layout=compact&theme=oceanic&langs_count=6" alt="Linguagens Mais Usadas" />
+</p>
