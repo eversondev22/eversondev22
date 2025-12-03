@@ -1,50 +1,48 @@
-# Olá, eu sou Everson Araújo 👋
+# 👋 Olá, eu sou Everson Araújo
 
-Desenvolvedor em transição de carreira, apaixonado por construir soluções de software eficientes. Estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando em tecnologias Full Stack, com foco em Backend e C#.
+Sou profissional com sólida experiência em **logística, auditoria, prevenção de perdas e gestão de equipes** — atualmente me reinventando como **desenvolvedor / analista de dados**.  
 
-Minha trajetória começou com a expertise em **Excel Avançado e VBA**, o que me deu uma base sólida em lógica e automação. Agora, busco ativamente oportunidades onde possa aplicar minha experiência e contribuir para projetos inovadores na área de tecnologia.
-
----
-
-## 🚀 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eversondev22&show_icons=true&theme=oceanic&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
-
-## 💻 Minhas Principais Habilidades
-
-Abaixo estão as tecnologias que utilizo e nas quais estou investindo meu desenvolvimento:
-
-<div align="center">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
-
-### 🛠️ Foco Atual
-
-* **Backend:** C# (.NET Core)
-* **Dados:** SQL, Análise e manipulação de dados.
-* **Frontend:** React (em desenvolvimento)
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e me dedicando ao estudo de tecnologias de backend e data: com foco em **C# (.NET), SQL e manipulação/análise de dados**. Também estou expandindo conhecimentos em **Python, Power BI e automação com VBA/Excel**.  
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 💼 Minha trajetória profissional & competências
 
-Estou sempre aberto a novas conexões e oportunidades. Vamos conversar!
-
-| Plataforma | Link |
-| :--- | :--- |
-| [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everson-araujo-09b289264/) | [Everson Araújo - LinkedIn](https://www.linkedin.com/in/everson-araujo-09b289264/) |
-| [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/everson_araujos/) | [everson\_araujos - Instagram](https://www.instagram.com/everson_araujos/) |
-| [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/everson.araujo.7965) | [Everson Araújo - Facebook](https://www.facebook.com/everson.araujo.7965) |
+- ✅ Coordenador de Logística em operação de distribuição, com vivência em gestão de estoques, auditoria e prevenção de perdas.  
+- ✅ Habilidade avançada em **Excel / VBA** para automações e consolidação de dados — base forte em lógica e manipulação de planilhas.  
+- ✅ Experiência na coordenação de equipes, processos operacionais, controle de estoques e relatórios gerenciais.  
+- ✅ Em transição para área de tecnologia: aplicando experiência prática de operações e dados para o desenvolvimento de software/back-end e análise de dados.  
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversondev22&layout=compact&theme=oceanic&langs_count=6" alt="Linguagens Mais Usadas" />
-</p>
+## 🛠️ Tecnologias & Ferramentas que estou utilizando / estudando
+
+| Área / Foco        | Ferramentas / Linguagens                 |
+|------------------|------------------------------------------|
+| Backend / Dados   | C#, .NET (.NET Core), SQL                 |
+| Análise de Dados  | Python, Excel, VBA, Power BI              |
+| Frontend / Web    | HTML, CSS, (interesse em aprender React / JS) |
+| Automação & Processos | VBA, scripts, manipulação de dados     |
+
+---
+
+## 🎯 Objetivos atuais
+
+- Construir projetos de backend e sistemas para automatizar processos de dados e operações.  
+- Desenvolver habilidades em **data analysis / data engineering**, unindo minha experiência operacional com programação e análise.  
+- Criar e publicar projetos no GitHub que demonstrem essa transição e o uso prático de automações, dados e código.  
+- Participar de projetos desafiadores, em que posso aplicar conhecimento de logística + dados + desenvolvimento.  
+
+---
+
+## 🔗 Vamos nos conectar / Ver mais do meu trabalho
+
+[LinkedIn](https://www.linkedin.com/in/everson-araujo-09b289264) · [GitHub](https://github.com/eversondev22) · [Instagram](https://www.instagram.com/everson_araujos)  
+
+---
+
+## 📌 Meus Repositórios Principais
+
+Confira meus projetos em destaque, com foco em lógica, automação e backend — sempre buscando evoluir para soluções mais robustas.  
+
+*(Sinta-se à vontade para explorar e entrar em contato para colaborações!)*  
