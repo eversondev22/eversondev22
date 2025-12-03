@@ -1,48 +1,78 @@
-# 👋 Olá, eu sou Everson Araújo
-
-Sou profissional com sólida experiência em **logística, auditoria, prevenção de perdas e gestão de equipes** — atualmente me reinventando como **desenvolvedor / analista de dados**.  
-
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e me dedicando ao estudo de tecnologias de backend e data: com foco em **C# (.NET), SQL e manipulação/análise de dados**. Também estou expandindo conhecimentos em **Python, Power BI e automação com VBA/Excel**.  
+<h1 align="center">👋 Olá, eu sou o Everson Araújo</h1>
+<p align="center">Profissional de Logística em transição para Desenvolvimento & Análise de Dados</p>
 
 ---
 
-## 💼 Minha trajetória profissional & competências
+## 🚀 Sobre mim
+Sou um profissional com ampla experiência em **logística, auditoria, prevenção de perdas e gestão de equipes**.  
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e desenvolvendo projetos em:
 
-- ✅ Coordenador de Logística em operação de distribuição, com vivência em gestão de estoques, auditoria e prevenção de perdas.  
-- ✅ Habilidade avançada em **Excel / VBA** para automações e consolidação de dados — base forte em lógica e manipulação de planilhas.  
-- ✅ Experiência na coordenação de equipes, processos operacionais, controle de estoques e relatórios gerenciais.  
-- ✅ Em transição para área de tecnologia: aplicando experiência prática de operações e dados para o desenvolvimento de software/back-end e análise de dados.  
-
----
-
-## 🛠️ Tecnologias & Ferramentas que estou utilizando / estudando
-
-| Área / Foco        | Ferramentas / Linguagens                 |
-|------------------|------------------------------------------|
-| Backend / Dados   | C#, .NET (.NET Core), SQL                 |
-| Análise de Dados  | Python, Excel, VBA, Power BI              |
-| Frontend / Web    | HTML, CSS, (interesse em aprender React / JS) |
-| Automação & Processos | VBA, scripts, manipulação de dados     |
+- C# / .NET  
+- SQL  
+- Python  
+- Excel / VBA  
+- HTML / CSS  
+- Power BI  
 
 ---
 
-## 🎯 Objetivos atuais
+## 📊 Estatísticas do GitHub
 
-- Construir projetos de backend e sistemas para automatizar processos de dados e operações.  
-- Desenvolver habilidades em **data analysis / data engineering**, unindo minha experiência operacional com programação e análise.  
-- Criar e publicar projetos no GitHub que demonstrem essa transição e o uso prático de automações, dados e código.  
-- Participar de projetos desafiadores, em que posso aplicar conhecimento de logística + dados + desenvolvimento.  
-
----
-
-## 🔗 Vamos nos conectar / Ver mais do meu trabalho
-
-[LinkedIn](https://www.linkedin.com/in/everson-araujo-09b289264) · [GitHub](https://github.com/eversondev22) · [Instagram](https://www.instagram.com/everson_araujos)  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eversondev22&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversondev22&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📌 Meus Repositórios Principais
+## 🧰 Tecnologias e Ferramentas
 
-Confira meus projetos em destaque, com foco em lógica, automação e backend — sempre buscando evoluir para soluções mais robustas.  
+<p align="left">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+</p>
 
-*(Sinta-se à vontade para explorar e entrar em contato para colaborações!)*  
+---
+
+## 📈 Skills (gráfico)
+### 🎯 Skill Bars (Shields.io)
+
+**C# / .NET**  
+![C#](https://img.shields.io/badge/Nível-80%25-blue?style=for-the-badge)
+
+**SQL**  
+![SQL](https://img.shields.io/badge/Nível-75%25-blue?style=for-the-badge)
+
+**Python**  
+![Python](https://img.shields.io/badge/Nível-70%25-blue?style=for-the-badge)
+
+**Excel / VBA**  
+![VBA](https://img.shields.io/badge/Nível-90%25-blue?style=for-the-badge)
+
+**HTML / CSS**  
+![HTML](https://img.shields.io/badge/Nível-65%25-blue?style=for-the-badge)
+
+
+---
+
+## 👀 Contadores e Badges
+
+![GitHub followers](https://img.shields.io/github/followers/eversondev22?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/eversondev22?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=eversondev22&color=blue&style=for-the-badge)
+
+---
+
+## 🔗 Contato
+📌 **LinkedIn:** https://www.linkedin.com/in/everson-araujo-09b289264  
+📌 **GitHub:** https://github.com/eversondev22  
+📌 **Instagram:** https://www.instagram.com/everson_araujos  
+
+---
+
+<p align="center">✨ Sempre em evolução. Construindo projetos reais e colocando minha experiência em prática.</p>
+
