@@ -1,78 +1,96 @@
-<h1 align="center">👋 Olá, eu sou o Everson Araújo</h1>
-<p align="center">Profissional de Logística em transição para Desenvolvimento & Análise de Dados</p>
+# Olá! Eu sou Everson Araujo 👋
+
+### Desenvolvedor em formação | Backend | Tecnologia e Soluções Digitais
+
+Profissional em transição de carreira para Tecnologia da Informação, com experiência prática no desenvolvimento de projetos próprios, construção de APIs, lógica de programação, bancos de dados e testes.
+
+Minha trajetória profissional em Logística e Gestão também me proporcionou experiência com processos, indicadores, análise de dados e resolução de problemas.
+
+Atualmente, estou direcionando meus estudos e projetos para o desenvolvimento de sistemas e soluções tecnológicas.
 
 ---
 
-## 🚀 Sobre mim
-Sou um profissional com ampla experiência em **logística, auditoria, prevenção de perdas e gestão de equipes**.  
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e desenvolvendo projetos em:
+## 🚀 Tecnologias e ferramentas
 
-- C# / .NET  
-- SQL  
-- Python  
-- Excel / VBA  
-- HTML / CSS  
-- Power BI  
+**Desenvolvimento Web**
+- HTML5
+- CSS3
+- JavaScript
 
----
+**Backend**
+- Node.js
+- Express.js
+- NestJS
+- TypeScript
 
-## 📊 Estatísticas do GitHub
+**Banco de Dados**
+- PostgreSQL
+- SQL
+- Prisma ORM
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eversondev22&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversondev22&layout=compact&theme=tokyonight" />
-</p>
+**Ferramentas**
+- Git
+- GitHub
+- Visual Studio Code
 
----
-
-## 🧰 Tecnologias e Ferramentas
-
-<p align="left">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-</p>
+**Dados e Gestão**
+- Excel Avançado
+- Power BI
+- PowerPoint
 
 ---
 
-## 📈 Skills (gráfico)
-### 🎯 Skill Bars (Shields.io)
+## 💻 Projetos em destaque
 
-**C# / .NET**  
-![C#](https://img.shields.io/badge/Nível-80%25-blue?style=for-the-badge)
+### RH Inteligente API
+**Projeto pessoal | Em desenvolvimento**
 
-**SQL**  
-![SQL](https://img.shields.io/badge/Nível-75%25-blue?style=for-the-badge)
+API Backend para uma plataforma de gestão de Recursos Humanos.
 
-**Python**  
-![Python](https://img.shields.io/badge/Nível-70%25-blue?style=for-the-badge)
+- Estruturação de API com NestJS e TypeScript.
+- Integração com PostgreSQL utilizando Prisma ORM.
+- Serviço de cadastro e validação de empresas.
+- Validação e normalização de CNPJ, incluindo formato alfanumérico.
+- Endpoint de monitoramento da aplicação e conexão com banco de dados.
+- Testes automatizados.
 
-**Excel / VBA**  
-![VBA](https://img.shields.io/badge/Nível-90%25-blue?style=for-the-badge)
+**Tecnologias:** Node.js, NestJS, TypeScript, PostgreSQL e Prisma ORM.
 
-**HTML / CSS**  
-![HTML](https://img.shields.io/badge/Nível-65%25-blue?style=for-the-badge)
+[Conheça o repositório](https://github.com/eversondev22/rh-inteligente-api)
 
+### Partiu Bingo
+**Projeto pessoal | Em desenvolvimento**
+
+Plataforma de bingo online com foco na interação e participação comunitária.
+
+- Desenvolvimento do backend com Node.js e Express.
+- Integração com PostgreSQL.
+- Implementação de rotas, modelos e controladores.
+- Algoritmos para geração e validação de cartelas.
+- Testes de geração de números e controle de similaridade entre cartelas.
+
+**Tecnologias:** Node.js, Express.js, JavaScript e PostgreSQL.
+
+[Conheça o repositório](https://github.com/eversondev22/bingo-online)
+
+### Radar Local
+**Projeto pessoal | Concepção e planejamento**
+
+Concepção de uma plataforma digital para aproximar consumidores e fornecedores locais, com planejamento de requisitos, regras de negócio, negociação e acompanhamento de pedidos.
 
 ---
 
-## 👀 Contadores e Badges
+## 📚 Aprendizado contínuo
 
-![GitHub followers](https://img.shields.io/github/followers/eversondev22?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/eversondev22?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=eversondev22&color=blue&style=for-the-badge)
+Acredito que aprender programação vai além de escrever código: envolve compreender a lógica, resolver problemas, testar soluções e evoluir continuamente.
 
----
-
-## 🔗 Contato
-📌 **LinkedIn:** https://www.linkedin.com/in/everson-araujo-09b289264  
-📌 **GitHub:** https://github.com/eversondev22  
-📌 **Instagram:** https://www.instagram.com/everson_araujos  
+Meu objetivo é desenvolver aplicações úteis, com código organizado e soluções que atendam a necessidades reais.
 
 ---
 
-<p align="center">✨ Sempre em evolução. Construindo projetos reais e colocando minha experiência em prática.</p>
+## 🤝 Vamos nos conectar?
+
+- **LinkedIn:** [Everson Araujo](https://www.linkedin.com/in/everson-araujo-09b289264)
+- **GitHub:** [eversondev22](https://github.com/eversondev22)
+- **E-mail:** eversondev22@gmail.com
 
